@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1607377037 source:c:\users\pc-n\desktop\codeblock\ increasing triplet subsequence\main.cpp
+	<iostream>
+	<vector>
+	<math.h>
+
